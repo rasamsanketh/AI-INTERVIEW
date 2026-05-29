@@ -3,6 +3,6 @@ import react from '@vitejs/plugin-react'
 
 // https://vite.dev/config/
 export default defineConfig({
-  base: '/ai-interview-simulator/',
+  base: '/AI-INTERVIEW/',
   plugins: [react()],
 })
